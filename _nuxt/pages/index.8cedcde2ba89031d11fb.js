@@ -1,0 +1,1 @@
+webpackJsonp([2],{"9+6m":function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={asyncData:function(e){var t=e.store;(0,e.redirect)("/"+t.getters.locale)}}}});
